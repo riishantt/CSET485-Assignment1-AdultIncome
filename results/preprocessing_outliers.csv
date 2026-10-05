@@ -1,0 +1,6 @@
+feature,min,q1,median,q3,max,n_outside_1.5IQR,pct
+age,17,28.0,37.0,47.0,90,268,0.59
+hours_per_week,1,40.0,40.0,45.0,99,11876,26.3
+capital_gain,0,0.0,0.0,0.0,99999,3788,8.39
+capital_loss,0,0.0,0.0,0.0,4356,2139,4.74
+education_num,1,9.0,10.0,13.0,16,290,0.64
